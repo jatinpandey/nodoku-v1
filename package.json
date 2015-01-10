@@ -1,5 +1,5 @@
 {
-    "name": "nodoku",
+    "name": "nodokuv1",
     "description": "EZ PZ node app",
     "scripts": {
         "start": "node server.js"
